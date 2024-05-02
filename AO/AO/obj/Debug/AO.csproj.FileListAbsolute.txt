@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\AO\AO\bin\Debug\AO.exe.config
+C:\Users\Administrator\source\repos\AO\AO\bin\Debug\AO.exe
+C:\Users\Administrator\source\repos\AO\AO\bin\Debug\AO.pdb
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.Form1.resources
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.Properties.Resources.resources
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.exe
+C:\Users\Administrator\source\repos\AO\AO\obj\Debug\AO.pdb
